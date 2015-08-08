@@ -26,3 +26,6 @@ On OS X with homebrew installed you can run `bin/setup`
 ### Deploying
 * run `s3cmd --configure` if you haven't used s3cmd before
 * Run `bin/release NAME_OF_BUCKET`
+
+
+--Example change
